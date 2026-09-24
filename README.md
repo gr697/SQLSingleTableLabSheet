@@ -2,7 +2,7 @@
 An example repository to help set up codespaces for SQLite for use with the Cloud and Databases Online course at the University of Bath
 
 
-dataBase.db contains the data within a table called pet in the below structure.
+dataBase.db contains the data within a table called pet in the below structure (Switch to the "code" tab).
 
 name	owner	species	sex	checkups	birth	death
 Fluffy	Harold	cat	     f	   5	 2001-02-04	NULL
